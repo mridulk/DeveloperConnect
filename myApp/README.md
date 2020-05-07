@@ -1,1 +1,1 @@
-
+This is a Social Networking website serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Reddit.Here the developers can also make their portfolio based on their technical feild.I have used MongoDB Atlas for database and React-Redux to have an easier state management system.Its a MERN stack application. 
